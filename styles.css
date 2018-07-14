@@ -7,3 +7,8 @@ h1 {
 p {	
 	color: red;
 }
+
+ul {
+	font-family: Arial, san-serif;
+	font-size: 28px;
+}
