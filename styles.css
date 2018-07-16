@@ -20,3 +20,8 @@ footer {
 	top: 80%;
 	width: 100%;
 }
+
+form {
+	font-size: 28px;
+	text-align: center;
+}
